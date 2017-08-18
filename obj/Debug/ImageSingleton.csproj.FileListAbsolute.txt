@@ -1,0 +1,11 @@
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\bin\Debug\ImageSingleton.exe.config
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\bin\Debug\ImageSingleton.exe
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\bin\Debug\ImageSingleton.pdb
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.csprojResolveAssemblyReference.cache
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.MainForm.resources
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.Properties.Resources.resources
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.csproj.GenerateResource.Cache
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.csproj.CoreCompileInputs.cache
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.exe
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.pdb
+C:\Users\l.savchenko\source\repos\ImageSingleton\ImageSingleton\obj\Debug\ImageSingleton.Picture.resources
